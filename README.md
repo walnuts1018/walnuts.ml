@@ -1,1 +1,1 @@
-# blog.walnuts.ml
+# walnuts.ml
